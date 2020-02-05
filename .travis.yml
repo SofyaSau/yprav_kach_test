@@ -1,2 +1,3 @@
 language: cpp
 solution: graph.cpp
+build: make
